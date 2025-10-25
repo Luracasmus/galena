@@ -1,7 +1,7 @@
-Resource pack carefully utilizing the [filter block](https://minecraft.wiki/w/Pack.mcmeta) functionality added in Minecraft 1.19 to intentionally break common X-ray resource packs, while retaining maximum compatibility with everything else. It is intended to be used as a **forced server-side resource pack**
+Resource pack carefully utilizing the [filter block](https://minecraft.wiki/w/Pack.mcmeta) functionality added in Minecraft 1.19 to intentionally break common X-ray resource packs, while retaining maximum compatibility with everything else. It is intended to be used as a **forced server-side resource pack**.
 
 <details>
-<summary>The latest version is tested against:</summary>
+<summary>Blocking has been tested against:</summary>
 
 * **X-ray Ultimate**: "Xray_Ultimate_1.21_v5.2.2.zip" (Jan 12, 2025)
 * **Better X-Ray ( xray )**: "Better Xray [ Vanilla ] 1.19 #1.2" (May 13, 2022)
@@ -18,4 +18,4 @@ Resource pack carefully utilizing the [filter block](https://minecraft.wiki/w/Pa
 </details>
 
 
-Not every aspect of each X-ray resource pack may be completely blocked, but a large part of their functionality should be broken. No known non-X-ray resource packs should be affected
+Not every aspect of each X-ray resource pack may be completely blocked, but a large part of their functionality should be broken. No known non-X-ray resource packs should be affected.
